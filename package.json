@@ -1,0 +1,11 @@
+{
+  "name": "vero",
+  "version": "1.9.0",
+  "description": "Vero — Global Hospitality OS",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
